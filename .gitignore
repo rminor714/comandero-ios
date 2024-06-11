@@ -90,3 +90,5 @@ fastlane/test_output
 iOSInjectionProject/
 /Podfile.lock
 /Pods
+
+.DS_Store
